@@ -47,7 +47,7 @@ If the a game server is not active, or the address you typed in does not have a 
 
 ### Server
 
-[Tank-Wars-Server]([https://github.com/UKeming](https://github.com/UKeming/Tank-Wars-Server))
+[Tank-Wars-Server](https://github.com/UKeming/Tank-Wars-Server)
 
 ## Release Note
 
