@@ -1,0 +1,9 @@
+Partner1 Name  // P1: Daniel Kopta   (please put in alphabetical order by First name)
+Partner2 Name  // P2: Peter Jensen
+
+Repository     // Repository URL to GitHub repository
+Contribution   // My Contribution:  50%  (or 20% → I didn't do much, or 80% → I did almost all...)
+
+Two to three paragraphs on the experience. Consider: 
+1) How well the partnership worked.
+2) Which techniques worked well, which did not.

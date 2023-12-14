@@ -1,0 +1,12 @@
+Partner1 Name  // P1: Keming Chen
+Partner2 Name  // P2: Yifei Sun
+
+Repository     // https://github.com/uofu-cs3500-spring21/game-steobroco_game
+Contribution   // My Contribution: 50%
+
+1) How well the partnership worked:
+    The pair programming technique worked very well between us, my partner have been very helpful and informative during the procedure.
+
+2) Which techniques worked well, which did not:
+    The technique of switching every 30 min worked very well, this allowed us to have a clear structure of the project, making us writing less buggy code.
+    And I think that all the techniques are very helpful when we make critical decision.

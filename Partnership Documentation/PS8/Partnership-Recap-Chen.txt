@@ -1,0 +1,14 @@
+Partner1 Name  // P1: Keming Chen
+Partner2 Name  // P2: Yifei Sun
+
+Repository     // https://github.com/uofu-cs3500-spring21/game-steobroco_game
+Contribution   // My Contribution: 50%
+
+1) How well the partnership worked:
+Amazing! The pair programming works very well on us.
+We finish the program very fast because of the good coorperation.
+
+2) Which techniques worked well, which did not:
+The driver and navigator technique worked very well.
+This let us understand each other's code perfectly and lead to the success of the coorperation.
+All the techniques worked well.
